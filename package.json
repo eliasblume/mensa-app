@@ -1,0 +1,13 @@
+{
+  "name": "mensa-app",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "git@github.com:eliasblume/mensa-app.git",
+  "author": "Elias Blume <mail@elias-blu.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/cheerio": "^0.22.23",
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
